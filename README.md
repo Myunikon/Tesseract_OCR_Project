@@ -1,27 +1,27 @@
-# Aplikasi OCR dengan Tesseract
+# OCR Application with Tesseract
 
-Aplikasi desktop untuk mengenali teks dari gambar menggunakan Tesseract OCR Engine.
+Desktop application to recognize text from images using Tesseract OCR Engine.
 
-## Fitur
+## Features
 
-- Pengenalan teks dari gambar dengan Tesseract OCR
-- Dukungan untuk berbagai bahasa
-- Pemrosesan gambar untuk meningkatkan akurasi OCR
-- Konversi PDF ke gambar dan ekstraksi teks
-- Pengambilan gambar dari webcam
-- Ekspor hasil ke berbagai format (teks, Excel, PDF)
+- Text recognition from images with Tesseract OCR
+- Support for multiple languages
+- Image processing to improve OCR accuracy
+- PDF to image conversion and text extraction
+- Webcam image capture
+- Export results to multiple formats (text, Excel, PDF)
 
-## Persyaratan
+## Requirements
 
-- Python 3.7+
-- Tesseract OCR (harus diinstal secara terpisah)
-- Pustaka Python yang tercantum dalam `requirements.txt`
+-Python 3.7+
+- Tesseract OCR (must be installed separately)
+- Python libraries listed in `requirements.txt`
 
-## Instalasi
+## Installation
 
-1. Instal Tesseract OCR:
-   - Windows: Unduh dan instal dari [https://github.com/UB-Mannheim/tesseract/wiki](https://github.com/UB-Mannheim/tesseract/wiki)
-   - Linux: `sudo apt install tesseract-ocr`
-   - macOS: `brew install tesseract`
+1. Install Tesseract OCR:
+- Windows: Download and install from [https://github.com/UB-Mannheim/tesseract/wiki](https://github.com/UB-Mannheim/tesseract/wiki)
+- Linux: `sudo apt install tesseract-ocr`
+- macOS: `brew install tesseract`
 
-2. Instal pustaka Python yang diperlukan:
+2. Install required Python libraries:
